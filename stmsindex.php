@@ -5,7 +5,7 @@
 	<h3>Welcome to the Simple Time Management System</h3>
 </head>
 
-<p>Please enter your details below to create an account. If you alredy have an account click<a href=stmslogin.php>here</a>to Log in into your account</p>
+<p>Please enter your details below to create an account. If you alreedy have an account click <a href=stmslogin.php>here</a>to Log in into your account</p>
 
 		<form name="register" method="POST" action="?">
 			<p>Forename  <input type="text" name="forename" maxlength="30" size="30"></p>
