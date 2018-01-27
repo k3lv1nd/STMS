@@ -1,8 +1,5 @@
 <?php
 session_start();
-print"welcome fucker, time to login<br />";
-
-
 ?>
 <!DOCTYPE html>
 <html>
@@ -21,8 +18,3 @@ print"welcome fucker, time to login<br />";
 
 </body>
 </html>
-<?php
-include "stmssql.php";
-$email=$_POST['email'];
-$password=$_POST['password'];
-?>
